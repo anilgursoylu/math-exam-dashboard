@@ -21,4 +21,3 @@ Bu proje, öğrencilerin matematik sınav sonuçlarını analiz etmek ve görsel
 ## Kurulum:
 1. Power BI Desktop uygulamasını bilgisayarınıza indirip kurun.
 2. Proje dosyasını GitHub'dan indirip Power BI Desktop ile açın.
-3. Verileri Excel dosyasından alarak dashboard üzerinde analiz yapabilirsiniz.
